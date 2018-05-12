@@ -1,0 +1,42 @@
+_repo: Combat_30712
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, Jack
+    - Schoenherr, John (John Carl)
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: http://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Reynolds, Mack
+    aliases:
+    - McCord, Guy
+    - Reynolds, Dallas McCord
+    birthdate: 1917
+    deathdate: 1983
+    gutenberg_agent_id: '25744'
+    url: http://www.gutenberg.org/2009/agents/25744
+    wikipedia: http://en.wikipedia.org/wiki/Mack_Reynolds
+description: An Alien landing on Earth might be readily misled, victimized by a one-sided
+  viewpoint. And then again ... it might be the Earthmen who were misled ...
+gutenberg_issued: '2009-12-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30712'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+title: Combat
+url: http://www.gutenberg.org/ebooks/30712
